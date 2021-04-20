@@ -1,0 +1,93 @@
+
+.logo-containerI{
+    background-image: url(Accueil.jpg);
+    height: 705px;
+    margin: auto;
+    padding: 0px;
+}
+                         
+.logo-containerDa{
+    background-image: url(dakaaar.jpg);
+    height: 670px;
+    margin: auto;
+    padding: 0px;
+}
+
+.logo-containerP{
+    background-image: url(Parisimg.jpg);
+    height: 670px;
+    margin: auto;
+    padding: 0px;
+}
+.logo-containerT{
+    background-image: url(Tokyo1.jpg);
+    height: 670px;
+    margin: auto;
+    padding: 0px;
+}
+
+.logo-containerR{
+    background-image: url(rio\ \(1\).jpg);
+    height: 670px;
+    margin: auto;
+    padding: 0px;
+}
+.logo-containerD{
+    background-image: url(dubai.jpg);
+    height: 670px;
+    margin: auto;
+    padding: 0px;
+}
+.menu{
+   background-color:transparent;
+   width: 1500px;
+   height: 80px;
+   margin: auto;
+   padding: 0px;
+}
+.menu ul{
+    margin-top:0px;
+    padding:10px;
+   
+}
+li{ 
+    display: inline-block;
+    width: 240px; 
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding-top: 20px;
+    font-size: x-large;
+    height: 35px;     
+    font-style: italic;
+    font-weight: bolder;
+}
+p{
+    font-size: x-large;
+}
+li:hover{
+    color:rgb(255, 255, 255);
+    text-decoration: underline;
+    background-color: rgb(0, 0, 0);
+    transform:skewX(20deg);
+}
+a{
+    text-decoration: none ;
+    color: inherit;
+}
+
+.contenuDR{
+    margin: 0 auto;
+    width: 100%;
+    height:2880px;
+    background-color: rgb(255, 255, 255);
+}
+ul li a {border-width: 100px;background-color: rgb(148, 255, 127);border-radius: 10px; }
+.font1{background-color: rgb(237, 212, 100);}
+.tokyo{text-align: center; height: 200px; width: 800px; font-size: 160px; font-weight: bolder; color: whitesmoke; color: blueviolet;}
+.text{text-align: center; font-size: xx-large; font-weight: initial;}
+.passion{height:80px ; text-align: center; background-color: black; color: rgba(0, 241, 141, 0.329); font-size: 32px; font-weight: normal;}
+.imdakar{text-align: left; height: 200px; width: 800px; font-size: 130px; font-weight: bolder; color: rgb(0, 0, 0); font-style: oblique;}
+.titre{text-align: center; height: 200px; width: 800px; font-size: 160px; font-weight: bolder; color: whitesmoke;}
+.div1{width: 689px; height: 500px; text-align: center}
+.titre1{font-weight: bold; text-decoration: underline;text-align: center;}
+.textac{text-align: center; font-size: xx-large; font-weight: bold ;}
